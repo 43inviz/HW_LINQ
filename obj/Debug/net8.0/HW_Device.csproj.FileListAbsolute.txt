@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\bin\Debug\net8.0\HW_Device.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\bin\Debug\net8.0\HW_Device.deps.json
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\bin\Debug\net8.0\HW_Device.runtimeconfig.json
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\bin\Debug\net8.0\HW_Device.dll
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\bin\Debug\net8.0\HW_Device.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\HW_Device.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\HW_Device.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\HW_Device.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\HW_Device.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\HW_Device.sourcelink.json
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\HW_Device.dll
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\refint\HW_Device.dll
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\HW_Device.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\HW_Device.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Device\obj\Debug\net8.0\ref\HW_Device.dll
